@@ -11,6 +11,14 @@ DOMAIN-SUFFIX,phicdn.net
 
 DOMAIN-SUFFIX,apple-dns.net
 
+# Apple Music TV
+DOMAIN,tv.applemusic.com
+
+# Apple TV
+DOMAIN,linear.tv.apple.com
+DOMAIN,play-edge.itunes.apple.com
+DOMAIN,uts-api.itunes.apple.com
+
 
 # Apple && iCloud
 
@@ -61,6 +69,7 @@ DOMAIN-SUFFIX,icloud-apple.cn
 DOMAIN-SUFFIX,icloud.net.cn
 DOMAIN-SUFFIX,icloudapple.cn
 
+# Apple CDN
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,ls-apple.com.akadns.net
 DOMAIN-SUFFIX,origin-apple.com.akadns.net
