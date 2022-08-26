@@ -1,13 +1,31 @@
 # Apple Extra
-
 DOMAIN-SUFFIX,apple.cn
-DOMAIN-SUFFIX,cdn-apple.com.w.kunlunca.com
 
-DOMAIN-SUFFIX,qtlcdn.com
+# Apple CDN
+DOMAIN-SUFFIX,mzstatic.com
+
+DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN-SUFFIX,icloud.cdn-apple.com
+DOMAIN-SUFFIX,store.storeimages.cdn-apple.com
+DOMAIN-SUFFIX,updates-http.cdn-apple.com
 DOMAIN-SUFFIX,ksyuncdn.com
-DOMAIN-SUFFIX,apple.com.mwcname.com
 DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN-SUFFIX,phicdn.net
+
+DOMAIN-SUFFIX,ls-apple.com.akadns.net
+DOMAIN-SUFFIX,origin-apple.com.akadns.net
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+DOMAIN-SUFFIX,apple.com.edgekey.net.globalredir.akadns.net
+DOMAIN-SUFFIX,apple.com.edgekey.net
+DOMAIN-SUFFIX,itunes-apple.com.akadns.net
+DOMAIN-SUFFIX,apple-support.akadns.net
+DOMAIN-SUFFIX,apple.com.edgesuite.net
+DOMAIN-SUFFIX,appledownload.qtlcdn.com
+DOMAIN-SUFFIX,cdn-apple.com.w.kunlunca.com
+DOMAIN-SUFFIX,apple.com.w.alikunlun.com
+DOMAIN-SUFFIX,apple.com.download.ks-cdn.com
+DOMAIN-SUFFIX,apple.com.mwcname.com
+DOMAIN-SUFFIX,itunes.g.aaplimg.com
 
 DOMAIN-SUFFIX,apple-dns.net
 
@@ -18,13 +36,10 @@ DOMAIN,tv.applemusic.com
 DOMAIN,blobstore.apple.com
 
 # Apple TV
-DOMAIN-SUFFIX,linear.tv.apple.com
-DOMAIN,play-edge.itunes.apple.com
-DOMAIN,uts-api.itunes.apple.com
-
+DOMAIN-SUFFIX,tv.apple.com
 
 # Apple && iCloud
-
+DOMAIN-SUFFFIX,itunes.apple.com
 DOMAIN-SUFFIX,icloud.com.akadns.net
 DOMAIN-SUFFIX,applemx-icloud.com
 DOMAIN-SUFFIX,icloud-isupport.com
@@ -71,17 +86,3 @@ DOMAIN-SUFFIX,appleicloud.cn
 DOMAIN-SUFFIX,icloud-apple.cn
 DOMAIN-SUFFIX,icloud.net.cn
 DOMAIN-SUFFIX,icloudapple.cn
-
-# Apple CDN
-DOMAIN-SUFFIX,mzstatic.com
-DOMAIN-SUFFIX,ls-apple.com.akadns.net
-DOMAIN-SUFFIX,origin-apple.com.akadns.net
-DOMAIN-SUFFIX,push-apple.com.akadns.net
-DOMAIN-SUFFIX,apple-mapkit.com
-DOMAIN-SUFFIX,apple.com.edgekey.net.globalredir.akadns.net
-DOMAIN-SUFFIX,apple.com.edgekey.net
-DOMAIN-SUFFIX,icloud.cdn-apple.com
-DOMAIN-SUFFIX,itunes-apple.com.akadns.net
-DOMAIN-SUFFIX,apple-support.akadns.net
-DOMAIN-SUFFIX,store.storeimages.cdn-apple.com
-DOMAIN-SUFFIX,updates-http.cdn-apple.com
