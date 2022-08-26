@@ -36,7 +36,9 @@ DOMAIN,tv.applemusic.com
 DOMAIN,blobstore.apple.com
 
 # Apple TV
-DOMAIN-SUFFIX,tv.apple.com
+DOMAIN,linear.tv.apple.com
+DOMAIN,play-edge.itunes.apple.com
+DOMAIN,uts-api.itunes.apple.com
 
 # Apple && iCloud
 DOMAIN-SUFFFIX,itunes.apple.com
