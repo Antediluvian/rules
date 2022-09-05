@@ -1,7 +1,9 @@
 # ctsi
-
 DOMAIN-SUFFIX,ctsi.com.cn
 
 # xiuluoyun
-
 DOMAIN-SUFFIX,xiuluohost.com
+
+
+# syncnext channels
+DOMAIN-SUFFIX,mddcloud.com.cn
