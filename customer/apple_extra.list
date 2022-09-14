@@ -1,4 +1,5 @@
 # Apple Extra
+DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple.cn
 DOMAIN,itunes.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
@@ -24,30 +25,30 @@ DOMAIN,news-events.apple.com
 DOMAIN,apple.comscoreresearch.com
 
 # Apple CDN
-DOMAIN-SUFFIX,mzstatic.com
+# DOMAIN-SUFFIX,mzstatic.com
 
-DOMAIN-SUFFIX,apple-mapkit.com
-DOMAIN-SUFFIX,icloud.cdn-apple.com
-DOMAIN-SUFFIX,store.storeimages.cdn-apple.com
-DOMAIN-SUFFIX,updates-http.cdn-apple.com
-DOMAIN-SUFFIX,ksyuncdn.com
-DOMAIN-SUFFIX,akamaiedge.net
-DOMAIN-SUFFIX,phicdn.net
+# DOMAIN-SUFFIX,apple-mapkit.com
+# DOMAIN-SUFFIX,icloud.cdn-apple.com
+# DOMAIN-SUFFIX,store.storeimages.cdn-apple.com
+# DOMAIN-SUFFIX,updates-http.cdn-apple.com
+# DOMAIN-SUFFIX,ksyuncdn.com
+# DOMAIN-SUFFIX,akamaiedge.net
+# DOMAIN-SUFFIX,phicdn.net
 
-DOMAIN-SUFFIX,ls-apple.com.akadns.net
-DOMAIN-SUFFIX,origin-apple.com.akadns.net
-DOMAIN-SUFFIX,push-apple.com.akadns.net
-DOMAIN-SUFFIX,apple.com.edgekey.net.globalredir.akadns.net
-DOMAIN-SUFFIX,apple.com.edgekey.net
-DOMAIN-SUFFIX,itunes-apple.com.akadns.net
-DOMAIN-SUFFIX,apple-support.akadns.net
-DOMAIN-SUFFIX,apple.com.edgesuite.net
-DOMAIN-SUFFIX,appledownload.qtlcdn.com
-DOMAIN-SUFFIX,cdn-apple.com.w.kunlunca.com
-DOMAIN-SUFFIX,apple.com.w.alikunlun.com
-DOMAIN-SUFFIX,apple.com.download.ks-cdn.com
-DOMAIN-SUFFIX,apple.com.mwcname.com
-DOMAIN-SUFFIX,itunes.g.aaplimg.com
+# DOMAIN-SUFFIX,ls-apple.com.akadns.net
+# DOMAIN-SUFFIX,origin-apple.com.akadns.net
+# DOMAIN-SUFFIX,push-apple.com.akadns.net
+# DOMAIN-SUFFIX,apple.com.edgekey.net.globalredir.akadns.net
+# DOMAIN-SUFFIX,apple.com.edgekey.net
+# DOMAIN-SUFFIX,itunes-apple.com.akadns.net
+# DOMAIN-SUFFIX,apple-support.akadns.net
+# DOMAIN-SUFFIX,apple.com.edgesuite.net
+# DOMAIN-SUFFIX,appledownload.qtlcdn.com
+# DOMAIN-SUFFIX,cdn-apple.com.w.kunlunca.com
+# DOMAIN-SUFFIX,apple.com.w.alikunlun.com
+# DOMAIN-SUFFIX,apple.com.download.ks-cdn.com
+# DOMAIN-SUFFIX,apple.com.mwcname.com
+# DOMAIN-SUFFIX,itunes.g.aaplimg.com
 
 DOMAIN-SUFFIX,apple-dns.net
 
