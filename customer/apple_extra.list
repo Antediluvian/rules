@@ -52,7 +52,7 @@ DOMAIN,apple.comscoreresearch.com
 
 DOMAIN-SUFFIX,apple-dns.net
 
-DOMAIN_SUFFIX,applemediaservices.com
+DOMAIN-SUFFIX,applemediaservices.com
 
 # Apple Music TV
 DOMAIN,tv.applemusic.com
@@ -64,7 +64,7 @@ DOMAIN,play-edge.itunes.apple.com
 DOMAIN,uts-api.itunes.apple.com
 
 # Apple && iCloud
-DOMAIN-SUFFFIX,itunes.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,icloud.com.akadns.net
 DOMAIN-SUFFIX,applemx-icloud.com
 DOMAIN-SUFFIX,icloud-isupport.com
