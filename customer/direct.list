@@ -20,3 +20,7 @@ DOMAIN-SUFFIX,lz-cdn6.com
 DOMAIN-SUFFIX,lz-cdn7.com
 DOMAIN-SUFFIX,lz-cdn8.com
 DOMAIN-SUFFIX,lz-cdn9.com
+
+
+# IP 查询
+DOMAIN-SUFFIX,ip.cn
