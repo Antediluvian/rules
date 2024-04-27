@@ -21,6 +21,17 @@ DOMAIN-SUFFIX,lz-cdn7.com
 DOMAIN-SUFFIX,lz-cdn8.com
 DOMAIN-SUFFIX,lz-cdn9.com
 
+DOMAIN-SUFFIX,cdnlz0.com
+DOMAIN-SUFFIX,cdnlz1.com
+DOMAIN-SUFFIX,cdnlz2.com
+DOMAIN-SUFFIX,cdnlz3.com
+DOMAIN-SUFFIX,cdnlz4.com
+DOMAIN-SUFFIX,cdnlz5.com
+DOMAIN-SUFFIX,cdnlz6.com
+DOMAIN-SUFFIX,cdnlz7.com
+DOMAIN-SUFFIX,cdnlz8.com
+DOMAIN-SUFFIX,cdnlz9.com
+
 
 # IP 查询
 DOMAIN-SUFFIX,ip.cn
